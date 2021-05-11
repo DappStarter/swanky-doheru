@@ -1,0 +1,9 @@
+{
+    "name": "Whales of Margin Ai",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/collection/entity": true
+    }
+}
